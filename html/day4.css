@@ -1,0 +1,15 @@
+.nat{
+    background-color: brown;
+    font-size: x-large;
+    font-weight: 900;
+    text-align:center;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    border: 2px solid green;
+    border-radius: 50%;
+}
